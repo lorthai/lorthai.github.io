@@ -18,11 +18,5 @@ function loadHTML(id, filename) {
 }  
 
 window.onload = function() {
-    /*function load_home() {
-        document.getElementById("main").innerHTML='<object type="text/html" data="home.html" ></object>';
-        
-    }
-    load_home();*/
-
     loadHTML("main", "home.html");
 }
