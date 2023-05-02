@@ -1,0 +1,60 @@
+body {
+    margin-bottom: 40px;
+    background-color: rgb(0 0 0 / 5%);
+}
+
+a.nav-link {
+    color: #167ac6;
+}
+
+.title {
+    margin: 30px 0;
+}
+
+#self-photo{
+    max-width: 250px;
+    border-radius: 100px;;
+}
+
+.description {
+    padding: 30px 15px;
+}
+
+.description b {
+    color: #167ac6;
+}
+
+.projects .project {
+    border: 1px solid #00000052;    
+    box-shadow: 2px 5px #e9ecef;
+}
+
+.project .row {
+    padding-bottom: 15px;
+}
+
+.project-img {
+    max-width: 300px;
+}
+
+.link-btn {
+    font-weight: bold;
+}
+
+.link-btn:hover {
+    color: #167ac6;
+}
+
+.footer a {
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #167ac6;
+}
+
+i.bi.bi-linkedin {
+    color: #0077B5;
+}
